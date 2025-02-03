@@ -13,6 +13,7 @@ AIS is an **automatic tracking system** used by ships to broadcast:
 AIS data is received by **terrestrial stations & satellites** and used for **real-time vessel tracking**.
 
 ![AIS communication architecture](assets/ais.jpg)
+*Source: [NATO Shipping Centre](https://shipping.nato.int/resources/uploads/1698/ais-WyxOi1.jpg)*
 
 ---
 
